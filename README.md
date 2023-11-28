@@ -58,4 +58,4 @@ Sathish (Developer)
 
 **Acknowledgments**
 
-This project was developed for SRM INSTITUTE OF SCIENCE AND TECHNOLOFY at my own intrest.
+This project was developed for SRM INSTITUTE OF SCIENCE AND TECHNOLOGY at my own interest.
